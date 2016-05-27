@@ -4,7 +4,9 @@
 
 新增香港、日本、新加坡等服务器线路自由切换功能
 
-[单击进入官方网站](https://go.cg003.xyz:8786//home/invite.html?code=77db427309a3eeb4)
+[单击进入官方网站](https://chuguo.space/home/invite.html?code=77db427309a3eeb4)
+
+如果官方不能打开，请加入上网加速列表即可
 
 [下载Windows AnyConnect 客户端](http://dl.xxshe.com/cisco_anyconnect/anyconnect-win-4.2.04018-pre-deploy-k9.msi)
 
