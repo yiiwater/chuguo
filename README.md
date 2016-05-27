@@ -1,6 +1,8 @@
 # 出锅(chuguo)
 
-[单击下载出锅最新版1.4.0版插件](https://github.com/chuguofan/chuguo/releases/download/chuguo_v1.4.0/chuguo_v1.4.0.crx)
+[单击下载出锅最新版1.4.1版插件](https://github.com/chuguofan/chuguo/releases/download/chuguo_v1.4.1/chuguo_v1.4.1.crx)
+
+新增香港、日本、新加坡等服务器线路自由切换功能
 
 [单击进入官方网站](https://go.cg003.xyz:8786//home/invite.html?code=77db427309a3eeb4)
 
