@@ -1,12 +1,9 @@
 # 出锅(chuguo)
 
-[单击下载出锅最新版1.4.1版插件](https://github.com/chuguofan/chuguo/releases/download/chuguo_v1.4.1/chuguo_v1.4.1.crx)
+[单击下载出锅最新版1.4.1版插件](https://github.com/chuguofan/chuguo/releases/download/chuguo_v1.4.1/chuguo_v1.4.1.crx) (新增香港、日本、新加坡等服务器线路自由切换功能)
 
-新增香港、日本、新加坡等服务器线路自由切换功能
+[单击进入官方网站](http://chuguo.space/home/invite.html?code=77db427309a3eeb4) (如果官方不能打开，请加入上网加速列表即可)
 
-[单击进入官方网站](https://chuguo.space/home/invite.html?code=77db427309a3eeb4)
-
-如果官方不能打开，请加入上网加速列表即可
 
 [下载Windows AnyConnect 客户端](http://dl.xxshe.com/cisco_anyconnect/anyconnect-win-4.2.04018-pre-deploy-k9.msi)
 
