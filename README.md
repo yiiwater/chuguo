@@ -4,7 +4,7 @@
 
 [备用下载出锅最新版1.4.2版插件](http://7xrvud.dl1.z0.glb.clouddn.com/chuguo_v1.4.2.crx)
 
-(新增香港、日本、新加坡等服务器线路自由切换功能)
+(新增香港、日本、新加坡、美国等国内低延迟服务器线路自由切换功能)
 
 [单击进入官方网站](http://chuguo.space/home/invite.html?code=77db427309a3eeb4) (如果官方不能打开，请加入上网加速列表即可)
 
