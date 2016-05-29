@@ -13,6 +13,7 @@
 
 [下载Android AnyConnect 客户端](http://dl.xxshe.com/cisco_anyconnect/anyconnect.vpn.android.avf-4.0.01287.apk)
 
+[全平台 AnyConnect 客户端下载](https://cnlic.com/share/client.html)
 
 # 简介
 
