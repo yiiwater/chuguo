@@ -35,6 +35,11 @@
 
 # 安装说明
 
+1. 下载Chrome浏览器并安装好，再下载『出锅』 Chrome插件,下载完成以后，打开浏览器的『扩展程序』页, 如果浏览器顶部出现“无法添加……”的黄色警告提示，忽略它并继续操作
+
 ![image](https://raw.githubusercontent.com/chuguofan/chuguo/master/chrome_step_1.png)
 
+2. 将下载好的 chuguo.crx 扩展安装程序拖放到『扩展程序』页（其他页面无效）
 ![image](https://raw.githubusercontent.com/chuguofan/chuguo/master/chrome_step_2.png)
+
+3. 安装完成! 出锅Chrome插件会随新版本的发布而自动更新.
