@@ -20,7 +20,7 @@
 
 [全平台 AnyConnect 客户端下载](https://cnlic.com/share/client.html) (包括Windows,Android,Mac OS X,Kindle,Android,Linux)
 
-#AnyConnect 客户端
+#官方Chrome浏览器下载
 [下载最新官方Chrome 51版本浏览器](http://pan.baidu.com/s/1bp2YIa7)
 (Chrome 51以下版本使用HTTPS代理时只能使用2个连接，经常造成阻塞卡顿，Chrome 51以上版本现在可以使用32个连接，强烈建议大家升级到该版本)
 
@@ -34,3 +34,7 @@
 工业级加密证书来保证大家的连接稳定和搞干扰到最低, 同时支持断线自动重连，来彻底解决VPN经常掉线或连接不上等问题.
 
 # 安装说明
+
+![image](https://raw.githubusercontent.com/chuguofan/chuguo/master/chrome_step_1.png)
+
+![image](https://raw.githubusercontent.com/chuguofan/chuguo/master/chrome_step_2.png)
