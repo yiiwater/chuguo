@@ -20,6 +20,10 @@
 
 [全平台 AnyConnect 客户端下载](https://cnlic.com/share/client.html) (包括Windows,Android,Mac OS X,Kindle,Android,Linux)
 
+#AnyConnect 客户端
+[下载最新官方Chrome 51版本浏览器](http://pan.baidu.com/s/1bp2YIa7)
+(Chrome 51以下版本使用HTTPS代理时只能使用2个连接，经常造成阻塞卡顿，Chrome 51以上版本现在可以使用32个连接，强烈建议大家升级到该版本)
+
 
 # 简介
 
